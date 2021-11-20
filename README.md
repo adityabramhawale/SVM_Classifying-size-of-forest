@@ -1,6 +1,6 @@
 # SVM_Classifying-size-of-forest
 
-classify the Size_Categorie using SVM
+Classify the Size_Categorie using SVM
 
 # SVM (Support Vector Machine)
 
